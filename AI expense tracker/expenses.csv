@@ -1,0 +1,18 @@
+date,vendor,amount,raw_message,category
+2025-10-23 09:00:00,Zomato,250.0,₹250 paid to Zomato,Food
+2025-10-23 10:15:00,Ola,120.0,₹120 paid to Ola,Travel
+2025-10-23 13:00:00,Amazon,800.0,₹800 paid to Amazon,Shopping
+2025-10-23 18:30:00,Dominos,300.0,₹300 paid to Dominos,Food
+2025-10-23 09:00:00,Zomato,250.0,₹250 paid to Zomato using UPI,Food
+2025-10-23 10:15:00,Ola,120.0,₹120 paid to Ola using UPI,Travel
+2025-10-23 12:30:00,Amazon,800.0,₹800 paid to Amazon using UPI,Shopping
+2025-10-23 14:00:00,Big Bazaar,500.0,₹500 paid to Big Bazaar,Groceries
+2025-10-23 16:45:00,PhonePe Recharge,200.0,₹200 recharged using PhonePe,Bills
+2025-10-23 18:00:00,Cafe Coffee Day,150.0,₹150 paid to Cafe Coffee Day,Food
+2025-10-23 19:30:00,Swiggy,350.0,₹350 paid to Swiggy,Food
+2025-10-23 20:15:00,Uber,180.0,₹180 paid to Uber,Travel
+2025-10-23 21:00:00,Flipkart,1200.0,₹1200 paid to Flipkart,Shopping
+2025-10-23 22:30:00,Electricity Bill,900.0,₹900 paid for Electricity bill,Bills
+2025-10-24 21:16:49,AMAZON on 24 Oct,250.0,Rs. 250.00 spent at AMAZON on 24 Oct,Shopping
+2025-10-24 21:51:53,zomato on 24 Oct,250.0,Rs. 250.00 spent at zomato on 24 Oct,Food
+2025-10-27 12:18:56,zomato on 27 Oct,2500.0,Rs. 2500.00 spent at zomato on 27 Oct,Food
