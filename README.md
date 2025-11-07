@@ -1,7 +1,7 @@
 # 💰 Real-Time Expense Tracker
 
 ## 📘 Overview
-The ** Expense Tracker** is a smart real-time expense management system that automatically records bank transactions from your SMS inbox.  
+The **Expense Tracker** is a smart real-time expense management system that automatically records bank transactions from your SMS inbox.  
 It uses:
 - 📱 **MacroDroid** (Android app) to capture incoming SMS messages  
 - ⚡ **FastAPI Backend** to process and store the transaction data  
